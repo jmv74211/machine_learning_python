@@ -51,7 +51,7 @@ plt.show()
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/images/matplotlib/diagram_line.png" width="70%">
+<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/doc/images/matplotlib/diagram_line.png" width="70%">
 </p>
 
 ### Bar chart
@@ -82,7 +82,7 @@ plt.show()
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/images/matplotlib/bar_chart.png" width="70%">
+<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/doc/images/matplotlib/bar_chart.png" width="70%">
 </p>
 
 ### Histogram
@@ -109,7 +109,7 @@ plt.show()
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/images/matplotlib/histogram.png" width="70%">
+<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/doc/images/matplotlib/histogram.png" width="70%">
 </p>
 
 ### Scatter plots
@@ -139,7 +139,7 @@ plt.show()
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/images/matplotlib/pie_chart.png" width="70%">
+<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/doc/images/matplotlib/pie_chart.png" width="70%">
 </p>
 
 ### Pie chart
@@ -169,5 +169,5 @@ plt.show()
 ```
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/images/matplotlib/scatter_plot.png" width="70%">
+<img src="https://raw.githubusercontent.com/jmv74211/machine_learning_python/master/doc/images/matplotlib/scatter_plot.png" width="70%">
 </p>
